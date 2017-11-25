@@ -7,7 +7,7 @@ In this assignment you will make use of the WavFile class to read and write .wav
 This assignment is meant as a review of material covered in SE1011. You are required to use at least one ArrayList object.
 
 ### Using a Supplied Class
-For this assignment, you will need to make use of the WavFile.java file (javadoc). You may change package for WavFile class or place it in the appropriate folder within your project.
+For this assignment, you will need to make use of the WavFile.java file ([javadoc](http://msoe.us/taylor/se1021/WavFile.html)). You may change package for WavFile class or place it in the appropriate folder within your project.
 
 ### Basic Program Flow
 You’ll need to create one class called Lab1 which should be in a package named the same as your MSOE username (e.g., taylor). Note: Do not place all of the functionality for your program in main. Prior to coding, decide on how you plan to encapsulate functionality into multiple methods. This class must contain your program that makes use of the WavFile class to do the following:
