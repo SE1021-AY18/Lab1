@@ -134,7 +134,6 @@
 		<module name="IllegalCatch"/>
 		<module name="IllegalThrows"/>
 		<module name="OneTopLevelClass"/>
-		<module name="PackageDeclaration"/>
 		<module name="Indentation">
 			<property name="arrayInitIndent" value="8"/>
 			<property name="lineWrappingIndentation" value="8"/>
